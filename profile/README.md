@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## Pembuat Website
+## Pembuat Virtual Biotope
 The current of the Virtual Biotope Team.
 - [Haruman Wiguna](https://github.com/haruman1/)
 
