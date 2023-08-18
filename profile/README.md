@@ -4,6 +4,10 @@
 ## The Warrior Team
 The current of the Warrior Team.
 - [Haruman Wiguna](https://github.com/haruman1/)
+- [Zhofron](https://github.com/Zhofron)
+- [Dimas Ajisaka](https://github.com/DimasAjisaka)
+- xxx
+- xxx
 
 
 
