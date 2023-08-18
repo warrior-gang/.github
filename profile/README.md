@@ -1,17 +1,11 @@
 ## Hi there 👋
 
 
-## Pembuat Virtual Biotope
-The current of the Virtual Biotope Team.
+## The Warrior Team
+The current of the Warrior Team.
 - [Haruman Wiguna](https://github.com/haruman1/)
 
 
-## Past team Virtual Biotope
-- [Indrayana](https://github.com/indrayana000)
-- [Fariz Ahmad](https://github.com/FarzBZ987)
-- 
-- [@Indrayana](https://github.com/indrayana000)
-- [@Indrayana](https://github.com/indrayana000)
 
 <!--
 
