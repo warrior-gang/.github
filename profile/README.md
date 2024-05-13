@@ -5,7 +5,6 @@
 The current of the Warrior Team.
 - [Haruman Wiguna](https://github.com/haruman1/)
 - [Rhizka Subentar](https://github.com/VolaTile324)
-- [Zhofron](https://github.com/Zhofron)
 - [Dimas Ajisaka](https://github.com/DimasAjisaka)
 - [Dhafin Rizqullah](https://github.com/dhafinrh)
 
